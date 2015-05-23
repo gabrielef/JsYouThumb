@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>Basic JsYouThumb example</title>
+
+    <script type="text/javascript" src="./../src/JsYouThumb.js"></script>
+
+</head>
+<body>
+    <img id="default-thumb" src=""/>
+
+    <div id="default-thumb2"></div>
+
+    <script type="text/javascript">
+        //set-up the object
+        var thumb = new JsYouThumb('IdLHAqL8KJw');
+        //get thumb url an replace it
+        var defImage = document.getElementById('default-thumb').src = thumb.getUrl('normal');
+        //create a new image with the video thumb
+        document.getElementById('default-thumb2').innerHTML += thumb.getImg('high');
+    </script>
+</body>
+</html>
