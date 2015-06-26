@@ -30,7 +30,7 @@ Quality key     | YouTube key     | Thumb Resolution [px] | Thumb Format
 :-------------: | :-------------: | :-------------: | :-------------: 
 normal          | default         | 120x90          | jpg
 high            | hqdefault       | 480x360         | jpg
-middle          | mqdefault       | 320x180         | jpg
+medium          | mqdefault       | 320x180         | jpg
 standard        | sddefault       | 640x480         | jpg
 max             | maxresdefault   | up to 1920x1080 | jpg
 player          | 0               | 480x360         | jpg
