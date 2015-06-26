@@ -11,7 +11,7 @@ function JsYouThumb(id) {
     var qualityArray = {
                         "normal" : "default",
                         "high" : "hqdefault",
-                        "middle" : "mqdefault",
+                        "medium" : "mqdefault",
                         "standard" : "sddefault",
                         "max" : "maxresdefault",
                         "player" : "0",
