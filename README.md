@@ -40,3 +40,7 @@ player          | 0               | 480x360         | jpg
 start           | 1               | 120x90          | jpg
 middle          | 2               | 120x90          | jpg
 end             | 3               | 120x90          | jpg
+
+##License
+
+Code released under [the MIT license](https://github.com/gabrielef/JsYouThumb/blob/master/LICENSE). 
