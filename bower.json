@@ -1,0 +1,30 @@
+{
+    "name": "js.youthumb",
+    "description": "Small Javascript Library to show YouTube thumbnails",
+    "main": [
+    "src/JsYouThumb.js"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "thumb",
+        "thumbnails",
+        "youtubr",
+        "icon"
+    ],
+    "authors": [
+        "Gabriele Formenti <dr.forme@gmail.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gabrielef/JsYouThumb.git"
+    },
+    "license": "MIT",
+    "ignore": [
+    ]
+}
