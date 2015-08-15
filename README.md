@@ -3,7 +3,10 @@ With JsYouThumb library you can get all the generated thumbnail images for a spe
 JsYouThumb is designed to work with pure JavaScript, you don't need any other library to make it work.
 
 #Installation
-You need only to include the JsYouThumb.js file to use this library.
+You can simply install with:
+- Install with [Bower](http://bower.io): `bower install js.youthumb`
+
+Or you can directly download the complete library and include the JsYouThumb.js
 ```html
 <script type="text/javascript" src="./../src/JsYouThumb.js"></script>
 ```
