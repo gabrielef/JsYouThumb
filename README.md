@@ -6,7 +6,7 @@ JsYouThumb is designed to work with pure JavaScript, you don't need any other li
 You can simply install with:
 - Install with [Bower](http://bower.io): `bower install js.youthumb`
 
-And you need only to include the JsYouThumb.js file to use this library.
+Or you can directly download the complete library and include the JsYouThumb.js
 ```html
 <script type="text/javascript" src="./../src/JsYouThumb.js"></script>
 ```
