@@ -43,4 +43,7 @@ end             | 3               | 120x90          | jpg
 
 ##License
 
-Code released under [the MIT license](https://github.com/gabrielef/JsYouThumb/blob/master/LICENSE). 
+Code released under [the MIT license](https://github.com/gabrielef/JsYouThumb/blob/master/LICENSE).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gabrielef/jsyouthumb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
